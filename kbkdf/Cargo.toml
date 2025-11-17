@@ -10,7 +10,7 @@ description = "Key Derivation Using Pseudorandom Function (KBKDF)"
 keywords = ["crypto", "KBKDF", "KDF"]
 categories = ["cryptography", "no-std"]
 readme = "README.md"
-rust-version = "1.85"
+# rust-version = "1.85"
 exclude = ["/tests/*"]
 
 [dependencies]

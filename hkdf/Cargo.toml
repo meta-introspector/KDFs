@@ -10,7 +10,7 @@ keywords = ["crypto", "HKDF", "KDF"]
 categories = ["cryptography", "no-std"]
 readme = "README.md"
 edition = "2024"
-rust-version = "1.85"
+# rust-version = "1.85"
 
 [dependencies]
 hmac = "0.13.0-rc.3"
